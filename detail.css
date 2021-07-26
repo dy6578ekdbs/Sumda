@@ -1,0 +1,45 @@
+
+.diary{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.diary_header{
+    margin-top: 50px;
+}
+
+.diary_header h4{
+   font-size: 30px;
+   margin: 0;
+}
+.diary_header h5{
+    font-size: 20px;
+    margin: 0;
+ }
+
+
+.wrapper{
+    margin: auto;
+    
+ 
+}
+.text{
+    font-size: 30px;
+}
+
+.comment{
+    font-size: 25px;
+}
+
+.btn{
+    display: block;
+    width: 100px;
+
+    color: black;
+    margin: 5px;
+    background-color: rgb(232, 195, 233);
+    border-radius: 3px;
+}
